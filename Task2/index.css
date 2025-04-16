@@ -1,0 +1,162 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.first .center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+.first .center img {
+  width: 5%;
+}
+.first .center h2 {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.second .center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+.second .center img {
+  width: 5%;
+}
+.second .center h2 {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  text-align: center;
+}
+
+.tree .center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+.tree .center img {
+  width: 5%;
+}
+.tree .center h2 {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin-top: 2rem;
+}
+.tree .images img {
+  width: 40px;
+  margin-left: 10px;
+}
+
+.Four .center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+.Four .center img {
+  width: 5%;
+}
+.Four .center h2 {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin-top: 2rem;
+}
+.Four .images img {
+  width: 800px;
+  margin-left: 10px;
+}
+
+.Five .center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+.Five .center img {
+  width: 5%;
+}
+.Five .center h2 {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.Bonus {
+  background-image: url("./assets/background (1).png");
+  width: 100%;
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 4rem;
+}
+.Bonus .center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-top: 5rem;
+  color: #fff;
+}
+.Bonus .center .box h1 {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin-top: 4rem;
+}
+.Bonus .center .box p {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  margin-top: 1rem;
+}
+.Bonus .center .box button {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  text-align: center;
+  padding: 15px;
+  margin-top: 1rem;
+  background-color: #23A6F0;
+  color: #fff;
+  border: none;
+}
+.Bonus h2 {
+  margin-top: 1rem;
+}/*# sourceMappingURL=index.css.map */

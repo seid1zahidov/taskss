@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.newsletter-section {
+  background-color: #ffffff;
+  padding: 4rem 2rem;
+}
+.newsletter-section .newsletter-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  gap: 2rem;
+}
+.newsletter-section .newsletter-container .newsletter-content h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+.newsletter-section .newsletter-container .newsletter-content h2 span {
+  display: block;
+  color: #333;
+}
+.newsletter-section .newsletter-container .newsletter-content p {
+  margin: 1rem 0;
+  color: #666;
+}
+.newsletter-section .newsletter-container .newsletter-content .subscribe-btn {
+  padding: 0.75rem 1.5rem;
+  background-color: #23a6f0;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.newsletter-section .newsletter-container .newsletter-content .subscribe-btn:hover {
+  background-color: #1d8bd3;
+}
+.newsletter-section .newsletter-container .newsletter-image {
+  text-align: center;
+}
+.newsletter-section .newsletter-container .newsletter-image img {
+  max-width: 100%;
+  height: auto;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.newsletter-section .newsletter-container .newsletter-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.newsletter-section .newsletter-container .newsletter-stats .stat h3 {
+  font-size: 2rem;
+  color: #000;
+}
+.newsletter-section .newsletter-container .newsletter-stats .stat p {
+  color: #666;
+  font-size: 0.95rem;
+}/*# sourceMappingURL=index.css.map */
